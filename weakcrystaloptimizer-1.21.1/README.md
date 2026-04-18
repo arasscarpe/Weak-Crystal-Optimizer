@@ -1,3 +1,3 @@
 **IMPORTANT: Disclaimer & Fair Play Weak Crystal Optimizer provides a significant advantage by modifying the vanilla placement speed**
 
-##Note: This mod was created primarily for educational purposes and for fun. I do not use this mod for competitive play myself; my main goal is to learn Minecraft modding, explore the Fabric API, and practice Java 21 development. I’ve shared the source code openly so that other aspiring developers can learn from it as well!
+**Note: This mod was created primarily for educational purposes and for fun. I do not use this mod for competitive play myself; my main goal is to learn Minecraft modding, explore the Fabric API, and practice Java 21 development. I’ve shared the source code openly so that other aspiring developers can learn from it as well!**
