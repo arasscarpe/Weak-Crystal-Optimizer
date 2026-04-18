@@ -3,7 +3,7 @@
   "id": "weak-crystal-optimizer",
   "version": "${version}",
   "name": "Weak Crystal Optimizer",
-  "description": "0 Delay Crystal Placement and Fast Attack Optimizer.",
+  "description": "0 Delay Crystal Placement",
   "authors": ["Weak İNC."],
   "license": "MIT",
   "icon": "assets/crystal/icon.png",
